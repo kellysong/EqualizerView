@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--EQ均衡器-->
+    <declare-styleable name="EqualizerView">
+        <!--圆圈文本大小-->
+        <attr name="evCircleTextSize" format="dimension" />
+        <!--圆圈文本颜色-->
+        <attr name="evCircleTextColor" format="color" />
+        <!--圆圈半径大小-->
+        <attr name="svCircleRadius" format="dimension" />
+
+        <!--X轴文本大小-->
+        <attr name="evXTextSize" format="dimension" />
+        <!--X轴选中颜色-->
+        <attr name="evXSelectColor" format="color" />
+        <!--X轴未选中颜色-->
+        <attr name="evXUnSelectColor" format="color" />
+        <!--左右边距-->
+        <attr name="evLRMargin" format="dimension" />
+
+    </declare-styleable>
+</resources>
